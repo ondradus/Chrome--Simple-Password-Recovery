@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\Pwrec\DONE\bin\Debug\DONE.exe.config
+C:\Users\Admin\Desktop\Pwrec\DONE\bin\Debug\DONE.exe
+C:\Users\Admin\Desktop\Pwrec\DONE\bin\Debug\DONE.pdb
+C:\Users\Admin\Desktop\Pwrec\DONE\obj\Debug\DONE.exe
+C:\Users\Admin\Desktop\Pwrec\DONE\obj\Debug\DONE.pdb
